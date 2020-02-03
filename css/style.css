@@ -1,0 +1,15 @@
+
+
+.header-container {
+    /* background-color: #b9dadc; */
+}
+
+.test-border {
+    border: solid black 2px;
+}
+
+.mid-text {
+    font-size: 10rem;
+    letter-spacing: 1rem;
+    font-family: 'Roboto Condensed', sans-serif;
+}
